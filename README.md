@@ -1,16 +1,14 @@
 ### Description Download images from google using chromedriver.
 
 ### Preparations
-
-1. ubuntu
-
-  sudo apt install chromium-chromedriver
-  python3 -m pip install selenium
-
-2. mac os x
+1. python3(or python2) -m pip install selenium
+2. install chromedriver(please search direction from google) 
+   2.1 ubuntu
+       - sudo apt install chromium-chromedriver
   
-3  windows
-  win10's subsystem ubuntu is recommanded
+   2.2 mac os x
+  
+   2.3 windows
 
 ### Usage
 
