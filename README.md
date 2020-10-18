@@ -5,7 +5,7 @@
 2. install chromedriver(please search direction from google) 
 
    2.1 ubuntu
-       - sudo apt install chromium-chromedriver
+    - sudo apt install chromium-chromedriver
   
    2.2 mac os x
   
