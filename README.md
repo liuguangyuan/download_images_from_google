@@ -5,8 +5,9 @@
 2. install chromedriver(please search direction from google) 
 
    2.1 ubuntu
-    - sudo apt install chromium-chromedriver
-  
+    ```
+    sudo apt install chromium-chromedriver
+    ```
    2.2 mac os x
   
    2.3 windows
@@ -16,16 +17,20 @@
 ```
 python3 download_image_from_google.py -help
 
-e.g.
+**e.g.**
+1. convention
+
+```
 python3 download_images_from_google.py "bird"
 python3 download_images_from_google.py "beautiful girl"
 python3 download_images_from _google.py "handsome boy, beautiful girl"
+```
 
-want to use http(https) proxy:
-e.g.
+2. using http(https) proxy:
+```
 python3 download_images_from "duck" --proxy <ip>:<port>
-
-want to use socks5 proxy:
-e.g.
+```
+3.using socks5 proxy:
+```
 python3 download_images_from_google.py "duck" --proxy socks5://<ip>:<port>
 ```
