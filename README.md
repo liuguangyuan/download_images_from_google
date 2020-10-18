@@ -3,6 +3,7 @@
 ### Preparations
 1. python3(or python2) -m pip install selenium
 2. install chromedriver(please search direction from google) 
+
    2.1 ubuntu
        - sudo apt install chromium-chromedriver
   
