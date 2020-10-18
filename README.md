@@ -20,18 +20,18 @@ Download images from google using chromedriver.
 ```
 python3 download_image_from_google.py -help
 ```
-**Examples**
-1. convention
-```
-python3 download_images_from_google.py "bird"
-python3 download_images_from_google.py "beautiful girl"
-python3 download_images_from _google.py "handsome boy, beautiful girl"
-```
-2. using http(https) proxy:
-```
-python3 download_images_from "duck" --proxy <ip>:<port>
-```
-3. using socks5 proxy:
-```
-python3 download_images_from_google.py "duck" --proxy socks5://<ip>:<port>
-```
+  **Examples**
+  1. convention
+  ```
+  python3 download_images_from_google.py "bird"
+  python3 download_images_from_google.py "beautiful girl"
+  python3 download_images_from _google.py "handsome boy, beautiful girl"
+  ```
+  2. using http(https) proxy:
+  ```
+  python3 download_images_from "duck" --proxy <ip>:<port>
+  ```
+  3. using socks5 proxy:
+  ```
+  python3 download_images_from_google.py "duck" --proxy socks5://<ip>:<port>
+  ```
