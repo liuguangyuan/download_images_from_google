@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-import pdb
 import sys, os
 import uuid
 from selenium import webdriver

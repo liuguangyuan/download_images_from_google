@@ -1,4 +1,7 @@
-### Description Download images from google using chromedriver.
+### Description 
+```
+Download images from google using chromedriver.
+```
 
 ### Preparations
 1. python3(or python2) -m pip install selenium
